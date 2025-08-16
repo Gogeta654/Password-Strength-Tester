@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment folders (in case you use a virtualenv later)
+env/
+venv/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+
+# macOS and Linux system files
+.DS_Store
